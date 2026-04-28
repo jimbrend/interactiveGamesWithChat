@@ -54,7 +54,7 @@ This README is designed to be **friendly, readable, and easy to contribute to**.
 
 ## Games Enhanced by Tools (Popular Add-ons)
 
-**Crowd Control** (Free service)  
+[**Crowd Control** (Free service)  ](https://crowdcontrol.live/)
 Works with **150+ games**. Viewers spend bits/points to spawn items, enemies, buffs, or disasters in games like *Lethal Company*, *Content Warning*, *PlateUp!*, retro games, and more. Extremely popular for “let chat ruin my run” streams.
 
 ---
