@@ -1,4 +1,4 @@
-# Chat Plays: The Ultimate List of Twitch Chat Interactive Games
+# Chat Plays: A List of Chat Interactive Games
 
 **A community-driven, ever-growing collection** of games where Twitch chat (and sometimes other platforms) directly influences, controls, or participates in the gameplay.
 
